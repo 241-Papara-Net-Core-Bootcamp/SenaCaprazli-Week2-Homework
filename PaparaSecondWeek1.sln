@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaparaSecondWeek1", "PaparaSecondWeek1\PaparaSecondWeek1.csproj", "{BDE6CB64-56DF-44CD-B621-B045E1704DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE6CB64-56DF-44CD-B621-B045E1704DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE6CB64-56DF-44CD-B621-B045E1704DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE6CB64-56DF-44CD-B621-B045E1704DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE6CB64-56DF-44CD-B621-B045E1704DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {338B74DE-01D5-4E49-9A31-6022A0A26E1B}
+	EndGlobalSection
+EndGlobal
